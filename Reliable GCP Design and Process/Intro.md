@@ -22,3 +22,12 @@ In this module, we talk about how to design reliable systems
 In this module, we cover security. Google has been operating securely in the cloud for 20 years. There is a strong belief that security empowers innovation. The approach of the cloud architect should be that security should be put first; everything else will follow from this.
 ## Maintenance and Monitoring
 In this final module of this course, we cover application maintenance and monitoring.
+
+
+The next table list services and its descriptons on GCP for this course:
+
+| Services      | Description | Image     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+|             | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
