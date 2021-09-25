@@ -3,11 +3,15 @@
 
 
 ## Courses
-  - [Google Cloud Fundamentals: Core Infrastructure](#step-2-cloud-concepts1)
-  - [Essential Google Cloud Infrastructure: Foundation](#step-2-cloud-concepts)
-  - [Essential Google Cloud Infrastructure: Core Services](#step-3-gc-concepts)    
-  - [Elastic Google Cloud Infrastructure: Scaling and Automation](#step-4-gc-products)
-  - [Reliable Google Cloud Infrastructure: Design and Process](#step-5-gc-training-courses)
+  - Google Cloud Fundamentals: Core Infrastructure
+  - Essential Google Cloud Infrastructure: Foundation
+  - Essential Google Cloud Infrastructure: Core Services   
+  - Elastic Google Cloud Infrastructure: Scaling and Automation
+  - Reliable Google Cloud Infrastructure: Design and Process
 
 
-## [Step 2 Cloud Concepts1](https://cloud.google.com/compute/docs/concepts)
+## [Course 1](https://github.com/camilonfs1/GCP-COURSERA-Especialization/tree/main/GCP%20Core%20Infraestructure)
+## [Course 2](https://github.com/camilonfs1/GCP-COURSERA-Especialization/tree/main/GCP%20Fuoundation)
+## [Course 3](https://github.com/camilonfs1/GCP-COURSERA-Especialization/tree/main/Essential%20GCP%20Core%20Services)
+## [Course 4](https://github.com/camilonfs1/GCP-COURSERA-Especialization/tree/main/Elastic%20GCP%20Scaling%20and%20Automation)
+## [Course 5](https://github.com/camilonfs1/GCP-COURSERA-Especialization/tree/main/Reliable%20GCP%20Design%20and%20Process)
