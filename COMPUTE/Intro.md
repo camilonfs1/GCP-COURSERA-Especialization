@@ -1,7 +1,4 @@
-# DESIGN AND PROCESS
-
-"This course equips students to build highly reliable and efficient solutions on Google Cloud using proven design patterns. It is a continuation of the Architecting with Google Compute Engine or Architecting with Google Kubernetes Engine courses and assumes hands-on experience with the technologies covered in either of those courses. Through a combination of presentations, design activities, and hands-on labs, participants learn to define and balance business and technical requirements to design Google Cloud deployments that are highly reliable, highly available, secure, and cost-effective." by [ Coursera ](https://www.coursera.org).
-
+# COMPUTE
 ## Introduction
 Welcome to the Reliable Google Cloud Infrastructure: Design and Process course. Learn about the course structure and it's content.
 ## Defining Services
@@ -18,8 +15,7 @@ In this module, we discuss Google Cloud network architectures, including hybrid 
 In this module, we discuss the different options of deploying applications to Google Cloud. Google Cloud offers many possible deployment platforms, and the choice is not always immediately obvious.
 ## Designing Reliable Systems
 In this module, we talk about how to design reliable systems
-## Security
-In this module, we cover security. Google has been operating securely in the cloud for 20 years. There is a strong belief that security empowers innovation. The approach of the cloud architect should be that security should be put first; everything else will follow from this.
+
 ## Maintenance and Monitoring
 In this final module of this course, we cover application maintenance and monitoring.
 

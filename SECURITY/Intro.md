@@ -1,0 +1,5 @@
+"This accelerated on-demand course introduces participants to the comprehensive and flexible infrastructure and platform services provided by Google Cloud with a focus on Compute Engine. Through a combination of video lectures, demos, and hands-on labs, participants explore and deploy solution elements, including infrastructure components such as networks, systems and applications services. This course also covers deploying practical solutions including customer-supplied encryption keys, security and access management, quotas and billing, and resource monitoring" by [ Coursera ](https://www.coursera.org).
+
+
+## Security
+In this module, we cover security. Google has been operating securely in the cloud for 20 years. There is a strong belief that security empowers innovation. The approach of the cloud architect should be that security should be put first; everything else will follow from this.
